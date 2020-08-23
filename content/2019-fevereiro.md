@@ -1,5 +1,5 @@
 +++
-title = "MeetUp de Fevereiro/2019"
+title = "Encontro de Fevereiro/2019"
 date = 2019-02-14
 +++
 
