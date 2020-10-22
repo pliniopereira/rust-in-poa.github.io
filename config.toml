@@ -21,3 +21,7 @@ theme = "hyde"
 # Put all your custom variables here
 hyde_theme = "theme-base-0f"
 hyde_reverse = true
+hyde_links = [
+  {url="https://t.me/rustinpoa", name="→ Grupo no Telegram"},
+  {url="https://github.com/rust-in-poa/exercism", name="→ Soluções do Exercism"},
+]
