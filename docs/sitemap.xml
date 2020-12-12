@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
+
         <url>
             <loc>https://rust-in-poa.github.io/</loc>
-            
+
         </url>
-    
+
         <url>
             <loc>https://rust-in-poa.github.io/2019-fevereiro/</loc>
-            
+
                 <lastmod>2019-02-14</lastmod>
-            
+
         </url>
-    
+
+        <url>
+            <loc>https://rust-in-poa.github.io/2020-novembro/</loc>
+
+                <lastmod>2020-11-18</lastmod>
+
+        </url>
+
         <url>
             <loc>https://rust-in-poa.github.io/2020-outubro/</loc>
-            
+
                 <lastmod>2020-10-30</lastmod>
-            
+
         </url>
-    
+
 </urlset>
